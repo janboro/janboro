@@ -17,17 +17,25 @@
 
 ### 🚀 What I've done
 
-- 💹 **Algorithmic Trading Developer**: Developed a multiprocessing backtesting platform for algorithmic trading, enabling strategy development and testing over 100,000 possibilities.
-- 🗃️ **PostgreSQL**: Engineered a database managing 20+ million transaction records for comprehensive platform analysis.
-- 🚢 **DevOps**: Architected an infrastructure for rapid deployment of 50+ Docker containers, using Kubernetes & HELM for scalability and performance.
-- 🐍 **Python Performance Tuning**: Optimized code to achieve up to a 1000x speed increase over open-source solutions.
-- 🔍 **Code Quality Enhancer**: Enhanced code standards by enforcing best practices and adhering to design patterns.
-- 🔗 **Blockchain Interaction**: Interacted with blockchains via Python Web3, gaining direct access to data.
-- 🧠 **Optimization & Machine Learning**: Implemented machine learning algorithms for solving intricate problems like the Traveling Salesman and Task Scheduling Problems.
-- 🕸️ **Web Scraping**: Written efficient web scrapers to extract and interact with websites.
-- 🔌 **API Integration**: Developed API websocket and HTTP handlers, ensuring seamless data flow and connectivity.
-- 📊 **KPI Tool Developement**: Created custom KPI tools, providing tailored insights and analytics for informed decision-making.
-- 📈 **Pinescripting**: Written TradingView scripts, enhancing trading strategies with customized tools.
+#### 📈 Software Developer & Algorithmic Trading
+
+- **Algorithmic Trading Developer**: Developed a multiprocessing backtesting platform for algorithmic trading, enabling strategy development and testing over 100,000 possibilities.
+- **Python Performance Tuning**: Optimized code to achieve up to a 1000x speed increase over open-source solutions.
+- **Code Quality Enhancer**: Enhanced code standards by enforcing best practices and adhering to design patterns.
+- **Blockchain Interaction**: Interacted with blockchains via Python Web3, gaining direct access to data.
+- **API Integration**: Developed API websocket and HTTP handlers, ensuring seamless data flow and connectivity.
+- **Pinescripting**: Written TradingView scripts, enhancing trading strategies with customized tools.
+- **Web Scraping**: Written efficient web scrapers to extract and interact with websites.
+- **KPI Tool Developement**: Created custom KPI tools, providing tailored insights and analytics for informed decision-making.
+
+#### 🗃️ Databases & DevOps
+
+- **PostgreSQL**: Engineered a database managing 20+ million transaction records for comprehensive platform analysis.
+- **DevOps**: Architected an infrastructure for rapid deployment of 50+ Docker containers, using Kubernetes & HELM for scalability and performance.
+
+#### 🧠 Machine Learning & Data Analysis
+- **Data Analysis**: Utilized Pandas and NumPy in Python, alongside Excel, to conduct extensive data analysis, turning complex datasets into valuable insights and strategic decisions.
+- **Optimization & Machine Learning**: Implemented machine learning algorithms for solving intricate problems like the Traveling Salesman and Task Scheduling Problems.
 
 ---
 
@@ -82,7 +90,7 @@ Feel free to reach out on LinkedIn! I'm always up for a good tech conversation a
 
 ---
 
-### 📚 Some of my projects you might be interested in:
+### 📚 Some of my projects you might be interested in
 
 #### DevOps
 
