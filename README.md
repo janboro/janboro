@@ -6,30 +6,36 @@
 
 👋 Hi there! I'm Jan, a versatile Software Developer with a knack for coding, testing, and deploying impactful software. Over 3+ years in the tech field, complemented with a Bachelor's and Master's degree in Systems Engineering, has taken me through a variety of sectors, always eager to learn and grow.
 
-### 🚀 What I've Done
+### 🚀 What I've done
 
-<!-- - Data Wizardry: Crafted a PostgreSQL database juggling over 20 million transaction records for in-depth platform insights.
-- Container Conductor: Designed an infrastructure for lightning-fast deployment of 50+ Docker containers, all harmoniously orchestrated by Kubernetes & HELM.
-- Python Performance Maestro: Supercharged Python code to outpace open-source solutions by up to 1000x. Yes, you read that right!
-- Trading Tactician: Engineered a multiprocessing backtesting platform for algorithmic trading that explores over 100,000 strategy possibilities.
-- Code Quality Crusader: Upheld the highest code standards, ensuring everything I touch is polished with best practices and design patterns. -->
+- 💹 **Algorithmic Trading Developer**: Developed a multiprocessing backtesting platform for algorithmic trading, enabling strategy development and testing over 100,000 possibilities.
+- 🗃️ **PostgreSQL**: Engineered a database managing 20+ million transaction records for comprehensive platform analysis.
+- 🚢 **DevOps**: Architected an infrastructure for rapid deployment of 50+ Docker containers, using Kubernetes & HELM for scalability and performance.
+- 🐍 **Python Performance Tuning**: Optimized code to achieve up to a 1000x speed increase over open-source solutions.
+- 🔍 **Code Quality Enhancer**: Enhanced code standards by enforcing best practices and adhering to design patterns.
+- 🔗 **Blockchain Interaction**: Interacted with blockchains via Python Web3, gaining direct access to data.
+- 🧠 **Optimization & Machine Learning**: Implemented machine learning algorithms for solving intricate problems like the Traveling Salesman and Task Scheduling Problems.
+- 🕸️ **Web Scraping**: Written efficient web scrapers to extract and interact with websites.
+- 🔌 **API Integration**: Developed API websocket and HTTP handlers, ensuring seamless data flow and connectivity.
+- 📊 **KPI Tool Developement**: Created custom KPI tools, providing tailored insights and analytics for informed decision-making.
+- 📈 **Pinescripting**: Written TradingView scripts, enhancing trading strategies with customized tools.
 
 ### 💡 I Thrive On
 
-- Learning: I always thrive to acquire new skills and knowledge in the ever-evolving tech landscape.
-- Helping Others: I find immense satisfaction in assisting others, whether it's mentoring teammates, contributing to community projects, or simply sharing insights that make someone's day a bit easier.
-- Challenge Solver: Dissecting and solving complex challenges is my forte. I embrace the intricacies of tough problems, turning obstacles into innovation and growth.
+- 📚 **Learning**: I always strive to acquire new skills and knowledge in the ever-evolving tech landscape.
+- 👐 **Helping Others**: I find immense satisfaction in assisting others, whether it's mentoring teammates, contributing to community projects, or simply sharing insights that make someone's day a bit easier.
+- 🧩 **Challenge Solver**: Dissecting and solving complex challenges is my forte. I embrace the intricacies of tough problems, turning obstacles into opportunities for innovation and growth.
 
 ### 🔍 Beyond the Code
 
-- 🥁 Drumming Enthusiast: In my downtime, I love to express myself through the rhythms and beats of drumming. It's not just a hobby, it's where music resonates with my heart.
-- 🌍 Polyglot: Fluent in 5 languages and learning Portuguese, I find joy in cultural exploration and international integration.
-- 🤸 Balance and Flight: When not coding, you'll find me perfecting handstands or soaring the skies with my FPV drone - it's all about balance and perspective!
-- 📚 Avid Reader: I lose myself in books, always hungry for new stories and knowledge.
+- 🥁 **Drumming Enthusiast**: In my downtime, I love to express myself through the rhythms and beats of drumming. It's not just a hobby, it's where music resonates with my heart.
+- 🌍 **Polyglot**: Fluent in 5 languages and learning Portuguese, I find joy in cultural exploration and international integration.
+- 🤸 **Balance and Flight**: When not coding, you'll find me perfecting handstands or soaring the skies with my FPV drone - it's all about balance and perspective!
+- 📚 **Avid Reader**: I lose myself in books, always hungry for new stories and knowledge.
 
 ### 🌟 Let's Connect
 
-Feel free to reach out on LinkedIn. I'm always up for a good tech conversation and exploring new opportunities.
+Feel free to reach out on LinkedIn! I'm always up for a good tech conversation and exploring new opportunities.
 
 <section align="center" id="connect-badges">
   <a href="https://github.com/janboro">
@@ -126,4 +132,3 @@ Feel free to reach out on LinkedIn. I'm always up for a good tech conversation a
   <img src="https://github-readme-stats-virid-two-80.vercel.app/api?username=janboro&show_icons=true&show=reviews,prs_merged&hide=stars,issues,contribs&hide_rank=true&include_all_commits=true" align="center" />
   <img src="https://github-readme-stats-virid-two-80.vercel.app/api/top-langs/?username=janboro&layout=compact&exclude_repo=github-readme-stats,obsidian_vault,phone_setup,technical_analysis_python_course" align="center" />
 </section>
-
