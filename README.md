@@ -2,6 +2,15 @@
 
 ---
 
+<section align="center" id="connect-badges">
+  <a href="https://github.com/janboro">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/jan-borowiec/">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
+</section>
+
 ## 🧑‍💻 About Me
 
 👋 Hi there! I'm Jan, a versatile Software Developer with a knack for coding, testing, and deploying impactful software. Over 3+ years in the tech field, complemented with a Bachelor's and Master's degree in Systems Engineering, has taken me through a variety of sectors, always eager to learn and grow.
@@ -19,32 +28,6 @@
 - 🔌 **API Integration**: Developed API websocket and HTTP handlers, ensuring seamless data flow and connectivity.
 - 📊 **KPI Tool Developement**: Created custom KPI tools, providing tailored insights and analytics for informed decision-making.
 - 📈 **Pinescripting**: Written TradingView scripts, enhancing trading strategies with customized tools.
-
-### 💡 I Thrive On
-
-- 📚 **Learning**: I always strive to acquire new skills and knowledge in the ever-evolving tech landscape.
-- 👐 **Helping Others**: I find immense satisfaction in assisting others, whether it's mentoring teammates, contributing to community projects, or simply sharing insights that make someone's day a bit easier.
-- 🧩 **Challenge Solver**: Dissecting and solving complex challenges is my forte. I embrace the intricacies of tough problems, turning obstacles into opportunities for innovation and growth.
-
-### 🔍 Beyond the Code
-
-- 🥁 **Drumming Enthusiast**: In my downtime, I love to express myself through the rhythms and beats of drumming. It's not just a hobby, it's where music resonates with my heart.
-- 🌍 **Polyglot**: Fluent in 5 languages and learning Portuguese, I find joy in cultural exploration and international integration.
-- 🤸 **Balance and Flight**: When not coding, you'll find me perfecting handstands or soaring the skies with my FPV drone - it's all about balance and perspective!
-- 📚 **Avid Reader**: I lose myself in books, always hungry for new stories and knowledge.
-
-### 🌟 Let's Connect
-
-Feel free to reach out on LinkedIn! I'm always up for a good tech conversation and exploring new opportunities.
-
-<section align="center" id="connect-badges">
-  <a href="https://github.com/janboro">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.linkedin.com/in/jan-borowiec/">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>
-</section>
 
 ---
 
@@ -69,14 +52,44 @@ Feel free to reach out on LinkedIn! I'm always up for a good tech conversation a
 
 ---
 
+### 💡 I Thrive On
+
+- 📚 **Learning**: I always strive to acquire new skills and knowledge in the ever-evolving tech landscape.
+- 👐 **Helping Others**: I find immense satisfaction in assisting others, whether it's mentoring teammates, contributing to community projects, or simply sharing insights that make someone's day a bit easier.
+- 🧩 **Challenge Solver**: Dissecting and solving complex challenges is my forte. I embrace the intricacies of tough problems, turning obstacles into opportunities for innovation and growth.
+
+---
+
+### 🔍 Beyond the Code
+
+- 🥁 **Drumming Enthusiast**: In my downtime, I love to express myself through the rhythms and beats of drumming. It's not just a hobby, it's where music resonates with my heart.
+- 🌍 **Polyglot**: Fluent in 5 languages and learning Portuguese, I find joy in cultural exploration and international integration.
+- 🤸 **Balance and Flight**: When not coding, you'll find me perfecting handstands or soaring the skies with my FPV drone - it's all about balance and perspective!
+- 📚 **Avid Reader**: I lose myself in books, always hungry for new stories and knowledge.
+
+### 🌟 Let's Connect
+
+Feel free to reach out on LinkedIn! I'm always up for a good tech conversation and exploring new opportunities.
+
+<section align="center" id="connect-badges">
+  <a href="https://github.com/janboro">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/jan-borowiec/">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
+</section>
+
+---
+
 ### 📚 Some of my projects you might be interested in:
 
-#### DevOps:
+#### DevOps
 
 - [My Private Computer Ansible Setup]()
 - [A Kubernetes Infrastructure using HELM]() for automatic deployment
 
-#### Database:
+#### Database
 
 - [A Postgres Interface for Python]() (Add db_retry to that repo fhttps://github.com/janboro/python_utils/blob/main/db_retry.py)
 
