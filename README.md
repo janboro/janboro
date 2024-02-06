@@ -89,7 +89,7 @@ Feel free to reach out on LinkedIn! I'm always up for a good tech conversation a
 </section>
 
 ---
-
+<!-- 
 ### 📚 Some of my projects you might be interested in
 
 #### DevOps
@@ -124,8 +124,9 @@ Feel free to reach out on LinkedIn! I'm always up for a good tech conversation a
 #### Fun university projects
 
 - [Multiple Depot Vehicle Routing Problem](https://github.com/janboro/mulitple_depot_vehicle_routing_problem)
-- [Stochastic Modelling](https://github.com/janboro/modelowanie_stochastyczne) <!--  Subdivide into smaller repos -->
-- [Hiding Files in Pictures](https://github.com/janboro/hiding_files)
+- [Stochastic Modelling](https://github.com/janboro/modelowanie_stochastyczne) --> 
+<!--  Subdivide into smaller repos -->
+<!-- - [Hiding Files in Pictures](https://github.com/janboro/hiding_files)
 
 #### Trading
 
@@ -145,7 +146,7 @@ Feel free to reach out on LinkedIn! I'm always up for a good tech conversation a
 - [Async Tasks](https://github.com/janboro/concurency)
 - [Python Websocket Broadcasting Server](https://github.com/janboro/python_websocket_broadcasting_server)
 
----
+--- -->
 
 ### 🔥 My Stats
 
